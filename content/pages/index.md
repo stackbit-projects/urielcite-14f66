@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: 'devoper, create web cires, '
-  description: The preview of the Starter theme
+  description: 'the cites is s property of uriel '
   extra:
     - name: 'og:type'
       value: website
